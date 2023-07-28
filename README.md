@@ -1,4 +1,8 @@
 # Road-Accident-Dashboard
+
+## Dashboard Screenshots
+![image](https://github.com/itspika/Road-Accident-Dashboard/assets/83761214/93d98580-6a3f-496f-93d4-cf74331e01c1)<br><br>
+
 ## Problem statements
 - Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so that they can
 have insight on the below requirements.
